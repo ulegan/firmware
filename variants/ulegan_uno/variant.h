@@ -16,7 +16,7 @@
 
 #define LORA_DIO0 26
 #define LORA_DIO1 27
-#define LORA_RESET 25
+#define LORA_RESET 13
 
 //#define LED_PIN 25   // If defined we will blink this LED
 #define BUTTON_PIN 0 // If defined, this will be used for user button presses
